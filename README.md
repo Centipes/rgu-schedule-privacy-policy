@@ -1,3 +1,7 @@
-# RGU Schedule Privacy policy
+# Kosygin University Schedule Privacy policy
 
-The RGU Schedule application doesn't collect any information from users.
+The Kosygin University Schedule application doesn't collect any information from users.
+
+# Политика конфиденциальности "Расписание РГУ Косыгина"
+
+Приложение "Расписание РГУ Косыгина" не собирает какую-либо информацию о пользователях.
