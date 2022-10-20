@@ -1,3 +1,7 @@
+# "ՊՀԿ Կոսիգինի ժամանակացույց" Գաղտնիության քաղաքականություն
+
+"ՊՀԿ Կոսիգինի ժամանակացույց" հավելվածը օգտվողների մասին որևէ տեղեկություն չի հավաքում:
+
 # Kosygin University Schedule Privacy policy
 
 The Kosygin University Schedule application doesn't collect any information from users.
